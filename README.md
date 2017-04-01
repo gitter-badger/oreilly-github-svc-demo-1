@@ -1,6 +1,8 @@
 Hooking your GitHub repo to third-party services
 ================================================
 
+[![Join the chat at https://gitter.im/oreilly-github-svc-demo/Lobby](https://badges.gitter.im/oreilly-github-svc-demo/Lobby.svg)](https://gitter.im/oreilly-github-svc-demo/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a demo repo for the [Mastering Advanced GitHub](#FIXME) video series at O’Reilly.
 
 It serves as a hooking point for a variety of third-party services:
